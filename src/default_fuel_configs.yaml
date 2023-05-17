@@ -1,0 +1,26 @@
+---
+target: next_diff
+train_proportion: 0.80
+target_lag: 8
+hyperparameter_search: True
+fit_best_configs: True
+regularize: elasticnet
+standardize: True
+alpha: [0, 0.5, 1.0]
+max_length: [10, 14, 17]
+window_type: days
+fill_method: [rectilinear, ffill]
+level: [3, 4]
+keep_sigs: all_linear
+t_level: [2, 3]
+l1_ratio: [0.0, 0.5, 1.0]
+use_multiplier: True
+fit_intercept: True
+use_prev_value: True
+basepoint: [True, False]
+reduce_dim: False
+prefix: s
+save_models: True
+save: weekly_data
+cast_weekly: False
+cast_daily: True

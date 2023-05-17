@@ -1,0 +1,40 @@
+---
+ gen_data: True
+ H: 10
+ downsample: False
+ nonlinear_transform: False
+ data_transform: sigmoid
+ analyse: True
+ kf: True
+ sig: True
+ compare_coeffs: True
+ x0: 0.1 # starting value of the system, start at origin for stationary process
+ var1: 2.0 # variance of noise in state update
+ var2: 1.0 # variance of noise in state to observation
+ length: random # length to simulate 
+ dt: 0.005
+ num_samples: 1000
+ sampling_method: random # choice of random/regular/near_regular
+ keep_proportion: 0.2
+ time_index: integer # type of data for time column, use dates for datetime or integer
+ save_folder: simulation
+ warnings: False
+ data_folder: simulation
+ train_proportion: 0.80
+ fill_method: ffill
+ standardize: False
+ regularize: None
+ alpha: 1.0
+ use_multiplier: True
+ fit_intercept: False
+ keep_sigs: innermost
+ prefix: s
+ level: 6
+ t_level: 6
+ plot_example: True
+ plot_ind: 800
+ window_type: ind
+ max_length: 500
+ basepoint: False
+ target: x1
+ 

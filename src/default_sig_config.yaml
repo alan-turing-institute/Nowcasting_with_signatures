@@ -1,0 +1,25 @@
+---
+experiment_name: final_run
+target: GDPC1
+target_lag: 124
+factor_type: [pca, filtered]
+generate_data: True
+hyperparameter_search: True
+fit_best_configs: True
+train_end: null
+end_date: 2017-12-31
+regularize: elasticnet
+standardize: True
+alpha: [0, 0.5, 1.0, 2.0]
+max_length: [182, 365, 730]
+window_type: days
+fill_method: [rectilinear, ffill]
+level: [3, 4]
+keep_sigs: all
+t_level: [2, 3]
+l1_ratio: [0.0, 0.5, 1.0]
+use_multiplier: True
+fit_intercept: True
+use_quarter_time: False
+use_prev_value: True
+basepoint: [True, False]

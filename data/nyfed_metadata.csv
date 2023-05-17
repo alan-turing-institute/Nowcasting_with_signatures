@@ -1,0 +1,35 @@
+,Variable,Assigned to,Factor grouping,Global,Soft,Real,Labour
+0,All Employees: Total nonfarm,PAYEMS,Labour,1,0,0,1
+1,Real Gross Domestic Product,GDPC1,Others,1,0,1,0
+2,CPI-U: All items ,CPIAUCSL,Others,1,0,0,0
+3,Manufacturers new orders: Durable goods,DGORDER,Manufacturing,1,0,1,0
+4,Retail sales and food services,RSAFS,Retail and consumption,1,0,1,0
+5,New single family houses sold,HSN1F,Housing and construction,1,0,1,0
+6,Housing starts,HOUST,Housing and construction,1,0,1,0
+7,Civilian unemployment rate,UNRATE,Labour,1,0,0,1
+8,Industrial production index,INDPRO,Manufacturing,1,0,1,0
+9,PPI: Final Demand,PPIFIS,Others,1,0,0,0
+10,ADP nonfarm private payroll employment,NPPTTL,Labour,1,0,0,1
+11,Empire state Mfg. Survey: General business conditions,GACDISA066MSFRBNY,Surveys,1,1,0,0
+12,Merchant wholesalers: Inventories: Total ,I42IMSM144SCEN,Manufacturing,1,0,1,0
+13,Value of Construction put in place,TTLCONS,Housing and construction,1,0,1,0
+14,Philly Fed Mfg. business outlook: Current activity,GACDFSA066MSFRBPHI,Surveys,1,1,0,0
+15,Import price index,IR,International Trade,1,0,0,0
+16,Building permits,PERMIT,Housing and construction,1,0,1,0
+17,Capacity utilization,TCU,Manufacturing,1,0,1,0
+18,PCE less foods and energy: Chain price index,PCEPILFE,Others,1,0,0,0
+19,CPI-U: All items less food and energy,CPILFESL,Others,1,0,0,0
+20,Inventories: Total Business,BUSINV,Manufacturing,1,0,1,0
+21,Nonfarm business sector: Unit labour cost,ULCNFB,Labour,1,0,0,1
+22,JOLTS: Job openings: Total ,JTSJOL,Labour,1,0,0,1
+23,Real personal consumption expenditure ,PCEC96,Retail and consumption,1,0,1,0
+24,PCE: Chain Price Index,PCEPI,Others,1,0,0,0
+25,Export price Index,IQ,International Trade,1,0,0,0
+26,Manufacturers shipments: Duarable goods,AMDMVS,Manufacturing,1,0,1,0
+27,Mfrs. Unfilled orders: All manufacturing industries,AMTMUO,Manufacturing,1,0,1,0
+28,Manufacturers inventories: Durable goods,AMDMTI,Manufacturing,1,0,1,0
+29,Real gross domestic income,A261RX1Q020SBEA,Others,1,0,1,0
+30,Real disposable personal income ,DSPIC96,Income,1,0,1,0
+31,Exports: Goods and services,BOPTEXP,International Trade,1,0,1,0
+32,Imports: Goods and services,BOPTIMP,International Trade,1,0,1,0
+33,University of Michigan: Consumer Sentiment,UMCSENT,Surveys,1,1,0,0

@@ -1,0 +1,10 @@
+numpy==1.23.1
+pandas==1.4.3
+matplotlib==3.5.2 
+scipy==1.8.1
+sklearn==0.0
+pmdarima==2.0.2
+esig==0.9.8.1
+pyYAML==6.0
+openpyxl==3.0.10
+iisignature==0.24

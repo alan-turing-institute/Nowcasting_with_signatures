@@ -1,0 +1,13 @@
+---
+text.usetex: True
+font.size: 18
+mathtext.default: regular
+axes.titlesize: 20
+axes.labelsize: 20
+legend.fontsize: 18
+xtick.labelsize: 18
+ytick.labelsize: 18
+figure.titlesize: 20
+figure.figsize: [10,6.5]
+font.family: Latin Modern Roman
+font.serif: computer modern roman
