@@ -3,7 +3,7 @@
 ## Overview
 
 In this repository, we include the code to generate and reproduce the results
-in our paper Nowcasting with signature methods.
+in our paper [Nowcasting with signature methods](https://arxiv.org/pdf/2305.10256.pdf).
 
 We have also generalise the code used here and created a Python package
 [SigNow](https://github.com/datasciencecampus/SigNow_ONS_Turing) which 
